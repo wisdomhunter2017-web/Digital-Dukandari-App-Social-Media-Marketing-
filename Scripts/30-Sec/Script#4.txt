@@ -1,0 +1,2 @@
+Script 4: Supplier Rate War
+Do suppliers ek hi cheez ke alag rates dete hain. App har supplier ka history yaad rakhti hai aur best rate highlight karti hai. Har mahine hazaron rupay ki bachat.
