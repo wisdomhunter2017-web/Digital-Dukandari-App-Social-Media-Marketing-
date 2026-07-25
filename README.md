@@ -1,3 +1,4 @@
+```markdown
 # Digital Dukandari - Auto Social Media Marketing System
 
 Yeh repository **Digital Dukandari App** ke liye fully automated Social Media Marketing system hai.
@@ -20,12 +21,12 @@ Yeh sab **n8n** ke through hota hai (self-hosted, free).
 
 ```
 Digital-Dukandari-App-Social-Media-Marketing-/
-├── scripts/
-│   ├── 15-seconds/     # Short Reels (TikTok, Instagram Reels, YouTube Shorts)
-│   ├── 30-seconds/     # Medium length content
-│   └── long/           # Long form videos (YouTube, Facebook)
-├── captions/           # Platform-wise captions
-└── hooks/              # Attention grabbing hooks
+├── Scripts/
+│   ├── 15-Sec/          # Short Reels (TikTok, Instagram Reels, YouTube Shorts)
+│   ├── 30-Sec/          # Medium length content
+│   └── Long-Scripts/    # Long form videos (YouTube, Facebook)
+├── Captions/            # Platform-wise captions
+└── Hooks/               # Attention grabbing hooks
 ```
 
 Aap isme jitni marzi scripts, captions aur hooks add kar sakte ho. System unhe use karke automatically content banayega.
@@ -47,7 +48,7 @@ Aap isme jitni marzi scripts, captions aur hooks add kar sakte ho. System unhe u
 ## How The System Works
 
 1. **Content Library**
-   - Aap `scripts/`, `captions/` aur `hooks/` folders mein content daalte ho
+   - Aap `Scripts/`, `Captions/` aur `Hooks/` folders mein content daalte ho
    - Jitna content chaho utna add kar sakte ho
 
 2. **Auto Generation (n8n)**
@@ -72,10 +73,10 @@ cd Digital-Dukandari-App-Social-Media-Marketing-
 ```
 
 ### 2. Content Add Karo
-- `scripts/15-seconds/` mein short scripts daalo
-- `scripts/30-seconds/` mein medium scripts daalo
-- `scripts/long/` mein long scripts daalo
-- `captions/` aur `hooks/` mein related content daalo
+- `Scripts/15-Sec/` mein short scripts daalo
+- `Scripts/30-Sec/` mein medium scripts daalo
+- `Scripts/Long-Scripts/` mein long scripts daalo
+- `Captions/` aur `Hooks/` mein related content daalo
 
 ### 3. n8n Setup Karo (Free)
 - n8n self-hosted deploy karo (Render / Railway free tier)
@@ -112,3 +113,4 @@ n8n workflow banayein jo:
 ---
 
 **Made with ❤️ for Digital Dukandari**
+```
