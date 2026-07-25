@@ -1,1 +1,5 @@
-
+LONG SCRIPT 1: Purane Bahi-Khata Se Digital Revolution (2.5 Mins)
+[0:00-0:30] Scene: Puraana register phata hua, dukaandaar pareshan. VO: 30 saal se chalne wali dukaan mein jab hisaab kaghaz par hota hai, toh har mahine hazaron ka nuksan chupchaap hota hai...
+[0:30-1:15] Problem Deep-Dive: Register ka gum hona, udhaar par jhagre, low stock ka na pata chalna.
+[1:15-2:00] App Solution & Demo: Quick POS, Voice Entry, WhatsApp Invoices, Urdu Interface showcase.
+[2:00-2:30] CTA: Digital Dukandari se abhi jurain aur pehla mahina free istemal karein.
